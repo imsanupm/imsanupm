@@ -1,12 +1,12 @@
-# Sanu PM
-### Full-stack developer · MERN + TypeScript · Kerala, India
+## Sanukrishna PM
+#### Full-stack developer · MERN + TypeScript · Kerala, India
 
 > BA graduate who switched into software because I can't look at anything
 > in tech without asking **why**. That curiosity is still the engine.
 
 ---
 
-## 🛠 Stack
+####  Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -19,7 +19,7 @@
 
 ---
 
-## 🚀 What I'm focused on
+###  What I'm focused on
 
 **Building applications** — Full-stack projects with MERN + TypeScript.
 Focused on clean architecture and real-world problem solving.
@@ -32,9 +32,11 @@ Reading real codebases, understanding internals, shipping fixes.
 
 ---
 
-## 📫 Connect
+### Connect
 
 - GitHub: [@imsanupm](https://github.com/imsanupm)
+- Linkedin [SanukrishnaPM](https://www.linkedin.com/in/sanukrishna-pm-747a97244/)
+- x [imsanupm](https://x.com/home)
 - Open to full-stack roles and interesting collaborations
 
 ---
