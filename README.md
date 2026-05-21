@@ -34,7 +34,6 @@ Reading real codebases, understanding internals, shipping fixes.
 
 - Open to full-stack roles and interesting collaborations
 
----
 
 <!-- Optional: uncomment when you have more activity
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=imsanupm&show_icons=true&theme=default)
