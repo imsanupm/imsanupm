@@ -32,11 +32,6 @@ Reading real codebases, understanding internals, shipping fixes.
 
 ---
 
-### Connect
-
-- GitHub: [@imsanupm](https://github.com/imsanupm)
-- Linkedin [SanukrishnaPM](https://www.linkedin.com/in/sanukrishna-pm-747a97244/)
-- x [imsanupm](https://x.com/home)
 - Open to full-stack roles and interesting collaborations
 
 ---
